@@ -1,30 +1,36 @@
-# Repositório de Exercícios de Programação
+# Repositório de Treinamento
 
-Este repositório é meu espaço pessoal para organizar e acompanhar meu progresso no aprendizado de programação. Contém exercícios que já fiz e será atualizado com novas atividades à medida que avanço.
+Este repositório contém exercícios de programação organizados para acompanhar o progresso no aprendizado.
 
 ## Estrutura Atual
 
-- **Java**
-    - **Hello World**: Um programa simples que imprime uma mensagem na tela usando o comando `System.out.println`.
-    - **Números Iguais**: Verifica se três números são iguais utilizando operadores lógicos.
-    - **Salários**: O usuário digita três salários (aceita "," ou "." como separadores decimais), converte para `double` e calcula a média.
-    - **Temperatura**: Converte temperaturas entre graus Celsius e Fahrenheit (em ambas as direções).
-    - **Calculadora**: Você escolhe uma operação (adição, subtração, multiplicação ou divisão), insere dois números e vê o resultado.
-    - **Números Primos**: O usuário informa um número e o programa verifica se ele é primo ou não.
-    - **Adivinhar**: Jogo onde o usuário tem que adivinhar um número sorteado aleatoriamente entre 1 e 100, com 10 tentativas e dicas sobre se o número escolhido é maior ou menor que o sorteado.
+### Java
+- **Hello World**: Programa simples que imprime uma mensagem na tela.
+- **Números Iguais**: Verifica se três números são iguais.
+- **Salários**: Calcula a média de três salários inseridos.
+- **Temperatura**: Converte entre Celsius e Fahrenheit.
+- **Calculadora**: Realiza operações básicas (adição, subtração, multiplicação, divisão).
+- **Números Primos**: Verifica se um número é primo.
+- **Adivinhar**: Jogo de adivinhar números com dicas e tentativas limitadas.
+
 ## Planejamento Futuro
+- **Expansão para novas linguagens**:
+  - Python
+  - JavaScript
+  - C++
+  - Outras linguagens a explorar.
+- **Exercícios mais complexos** para fortalecer habilidades avançadas.
 
-Pretendo expandir este repositório para incluir exercícios em outras linguagens de programação, como:
-- Python
-- JavaScript
-- C++
-- Outras linguagens que explorar no futuro
+## Como Usar
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/vinypalazzi/Training.git
+   ```
+2. Navegue até o diretório da linguagem desejada.
+3. Execute os arquivos seguindo as instruções de cada exercício.
 
-Também adicionarei exercícios mais complexos conforme avanço nas minhas habilidades.
-
-## Objetivo
-Este repositório serve como uma referência pessoal, documentando meu progresso e me ajudando a revisar conceitos e soluções no futuro.
+## Contribuições
+Contribuições são bem-vindas! Envie um pull request com melhorias ou novos exercícios.
 
 ---
-Este repositório é uma representação do meu compromisso com o aprendizado constante. Obrigado por visitar!
-
+Este repositório é uma documentação do progresso pessoal no aprendizado de programação. Obrigado por visitar!
