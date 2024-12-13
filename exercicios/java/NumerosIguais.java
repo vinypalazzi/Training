@@ -1,9 +1,4 @@
 package java;
-//Crie um programa em Java que receba três números inteiros do usuário e determine se:
-//
-//Pelo menos dois números são iguais.
-//Todos os números são diferentes.
-//A soma dos três números é maior que 100.
 
 import java.util.Scanner;
 
@@ -39,7 +34,6 @@ public class NumerosIguais {
             System.out.println("A soma dos três números é maior que 100");
         }
 
-        //Fechando o scanner:
         scanner.close();
 
     }

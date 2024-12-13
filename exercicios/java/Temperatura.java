@@ -5,19 +5,23 @@ import java.util.Scanner;
 public class Temperatura {
     public static void main(String[] args) {
 
+        //Cria o scanner:
         Scanner scanner = new Scanner(System.in);
 
+        //Adiciona as variaveis usada apenas para desvio de fluxo:
         int cont = 0;
 
         int select = 0;
 
         System.out.println("\n------------------------\nConversor de temperatura\n------------------------\n");
 
+        //Loop até o usuario escolher uma das opções:
         while (cont == 0) {
 
             System.out.print("Select: \n1 - ºC -> ºF\n2 - ºF -> ºC\n- ");
             select = scanner.nextInt();
 
+            //Desvia o fluxo aumentando 1 no contador para poder quebrar o loop:
             if (select == 1 || select == 2) {
                 cont += 1;
             }else {
@@ -25,6 +29,7 @@ public class Temperatura {
             }
         }
 
+        //Calcula e exibe o resultado dependendo da opção escolhida:
         if (select == 1) {
             System.out.print("\nQual a temperatura em ºC:\n- ");
             float graus = scanner.nextInt();
