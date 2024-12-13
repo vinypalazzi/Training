@@ -10,7 +10,8 @@ Este repositório é meu espaço pessoal para organizar e acompanhar meu progres
     - **Salários**: O usuário digita três salários (aceita "," ou "." como separadores decimais), converte para `double` e calcula a média.
     - **Temperatura**: Converte temperaturas entre graus Celsius e Fahrenheit (em ambas as direções).
     - **Calculadora**: Você escolhe uma operação (adição, subtração, multiplicação ou divisão), insere dois números e vê o resultado.
-
+    - **Números Primos**: O usuário informa um número e o programa verifica se ele é primo ou não.
+    - **Adivinhar**: Jogo onde o usuário tem que adivinhar um número sorteado aleatoriamente entre 1 e 100, com 10 tentativas e dicas sobre se o número escolhido é maior ou menor que o sorteado.
 ## Planejamento Futuro
 
 Pretendo expandir este repositório para incluir exercícios em outras linguagens de programação, como:
