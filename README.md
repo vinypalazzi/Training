@@ -5,6 +5,7 @@ Este repositório contém exercícios de programação organizados para acompanh
 ## Estrutura Atual
 
 ### Java
+
 - **Hello World**: Programa simples que imprime uma mensagem na tela.
 - **Números Iguais**: Verifica se três números são iguais.
 - **Salários**: Calcula a média de três salários inseridos.
@@ -12,16 +13,20 @@ Este repositório contém exercícios de programação organizados para acompanh
 - **Calculadora**: Realiza operações básicas (adição, subtração, multiplicação, divisão).
 - **Números Primos**: Verifica se um número é primo.
 - **Adivinhar**: Jogo de adivinhar números com dicas e tentativas limitadas.
+- **Jogo da Soma**: Calcula a soma de números digitados até que um número negativo seja inserido.
+- **Dias Úteis**: Verifica se um dia da semana é útil ou final de semana.
 
 ## Planejamento Futuro
+
 - **Expansão para novas linguagens**:
-  - Python
-  - JavaScript
-  - C++
-  - Outras linguagens a explorar.
+    - Rust
+    - JavaScript
+    - C++
+    - Outras linguagens a explorar.
 - **Exercícios mais complexos** para fortalecer habilidades avançadas.
 
 ## Como Usar
+
 1. Clone o repositório:
    ```bash
    git clone https://github.com/vinypalazzi/Training.git
@@ -30,7 +35,10 @@ Este repositório contém exercícios de programação organizados para acompanh
 3. Execute os arquivos seguindo as instruções de cada exercício.
 
 ## Contribuições
+
 Contribuições são bem-vindas! Envie um pull request com melhorias ou novos exercícios.
 
 ---
+
 Este repositório é uma documentação do progresso pessoal no aprendizado de programação. Obrigado por visitar!
+
