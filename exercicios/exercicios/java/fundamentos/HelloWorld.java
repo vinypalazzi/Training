@@ -1,4 +1,4 @@
-package exercicios.java;
+package exercicios.java.fundamentos;
 
 public class HelloWorld {
     
