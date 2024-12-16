@@ -15,6 +15,7 @@ Este repositório contém exercícios de programação organizados para acompanh
 - **Adivinhar**: Jogo de adivinhar números com dicas e tentativas limitadas.
 - **Jogo da Soma**: Calcula a soma de números digitados até que um número negativo seja inserido.
 - **Dias Úteis**: Verifica se um dia da semana é útil ou final de semana.
+- **Data e Teste:** Representa uma data (dia, mês, ano) e imprime valores de dois objetos de teste.
 
 ## Planejamento Futuro
 
