@@ -15,7 +15,8 @@ Este repositório contém exercícios de programação organizados para acompanh
 - **Adivinhar**: Jogo de adivinhar números com dicas e tentativas limitadas.
 - **Jogo da Soma**: Calcula a soma de números digitados até que um número negativo seja inserido.
 - **Dias Úteis**: Verifica se um dia da semana é útil ou final de semana.
-- **Data e Teste:** Representa uma data (dia, mês, ano) e imprime valores de dois objetos de teste.
+- **Data e Teste:** Representa uma data com dia, mês e ano, com método para formatá-la corretamente. O exercício testa a criação de objetos com valores específicos ou padrão (1/1/1970).
+- **Produtos e Teste:** Gerencia produtos com um desconto estático aplicado a todos. O exercício permite alterar o desconto global e calcular o preço com o desconto aplicado a cada produto.
 
 ## Planejamento Futuro
 
