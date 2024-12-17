@@ -23,6 +23,8 @@ Este repositório contém exercícios de programação organizados para acompanh
 - **Data e Teste:** Representa uma data com dia, mês e ano, com método para formatá-la corretamente. O exercício testa a criação de objetos com valores específicos ou padrão (1/1/1970).
 - **Produtos e Teste:** Gerencia produtos com um desconto estático aplicado a todos. O exercício permite alterar o desconto global e calcular o preço com o desconto aplicado a cada produto.
 
+---
+
 ## Planejamento Futuro
 
 - **Expansão para novas linguagens**:
@@ -31,6 +33,8 @@ Este repositório contém exercícios de programação organizados para acompanh
     - C++
     - Outras linguagens a explorar.
 - **Exercícios mais complexos** para fortalecer habilidades avançadas.
+
+---
 
 ## Como Usar
 
@@ -41,9 +45,12 @@ Este repositório contém exercícios de programação organizados para acompanh
 2. Navegue até o diretório da linguagem desejada.
 3. Execute os arquivos seguindo as instruções de cada exercício.
 
+---
+
 ## Contribuições
 
 Contribuições são bem-vindas! Envie um pull request com melhorias ou novos exercícios.
+
 
 Este repositório é uma documentação do progresso pessoal no aprendizado de programação. Obrigado por visitar!
 
