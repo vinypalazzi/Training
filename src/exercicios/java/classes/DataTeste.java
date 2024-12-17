@@ -20,5 +20,7 @@ public class DataTeste {
         // Exibe os anos dos dois objetos data no console
         System.out.println(data1.ano); // Exibe o ano de data1
         System.out.println(data2.ano); // Exibe o ano de data2
+        System.out.println(data1.obterData()); // Exibe a data1 formatada
+        System.out.println(data2.obterData()); // Exibe a data2 formatada
     }
 }
