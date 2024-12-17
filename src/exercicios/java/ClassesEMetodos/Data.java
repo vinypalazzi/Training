@@ -1,4 +1,4 @@
-package exercicios.java.classes;
+package exercicios.java.ClassesEMetodos;
 
 // Classe para representar uma data com dia, mês e ano
 public class Data {

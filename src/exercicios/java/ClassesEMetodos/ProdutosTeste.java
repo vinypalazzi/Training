@@ -1,4 +1,4 @@
-package exercicios.java.classes;
+package exercicios.java.ClassesEMetodos;
 
 public class ProdutosTeste {
     public static void main(String[] args) {

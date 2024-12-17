@@ -1,4 +1,4 @@
-package exercicios.java.classes;
+package exercicios.java.ClassesEMetodos;
 
 // Classe para testar a classe Data
 public class DataTeste {

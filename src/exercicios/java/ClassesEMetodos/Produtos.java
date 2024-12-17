@@ -1,4 +1,4 @@
-package exercicios.java.classes;
+package exercicios.java.ClassesEMetodos;
 
 public class Produtos {
     // Atributos da classe
