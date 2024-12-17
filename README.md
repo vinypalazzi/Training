@@ -45,9 +45,9 @@ Este repositório contém exercícios de programação organizados para acompanh
 
 Contribuições são bem-vindas! Envie um pull request com melhorias ou novos exercícios.
 
----
-
 Este repositório é uma documentação do progresso pessoal no aprendizado de programação. Obrigado por visitar!
+
+---
 
 ## Licença
 
