@@ -2,24 +2,24 @@ package exercicios.java.ClassesEMetodos;
 
 public class BankAccount {
     String name;
-    int AccountNumber;
-    double Balance;
+    int accountNumber;
+    double balance;
 
-    BankAccount(String YourName, int YourAccountNumber, double YourBalance) {
-        name = YourName;
-        AccountNumber = YourAccountNumber;
-        Balance = YourBalance;
+    BankAccount(String name, int accountNumber, double balance) {
+        this.name = name;
+        this.accountNumber = accountNumber;
+        this.balance = balance;
     }
 
-    void deposit(double Deposit) {
-        Balance += Deposit;
+    void deposit(double deposit) {
+        balance += deposit;
     }
 
-    void withdrawal(double Withdrawal) {
-        Balance -= Withdrawal;
+    void withdrawal(double withdrawal) {
+        balance -= withdrawal;
     }
 
     String display_balance() {
-        return String.format("$%.2f", Balance);
+        return String.format("$%.2f", balance);
     }
 }
