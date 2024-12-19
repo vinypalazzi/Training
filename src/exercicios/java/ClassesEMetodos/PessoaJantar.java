@@ -7,14 +7,14 @@ public class PessoaJantar {
         PessoaComida c1 = new PessoaComida("Chocolate", 0.2);
         PessoaComida c2 = new PessoaComida("Feijão", 0.5);
 
-        System.out.println(p1.pesoKg);
+        System.out.printf("O peso atual de %s é de %.2fKg\n", p1.name, p1.pesoKg);
 
         p1.comer(c1);
 
-        System.out.println(p1.pesoKg);
+        System.out.printf("O peso atual de %s é de %.2fKg\n", p1.name, p1.pesoKg);
 
         p1.comer(c2);
 
-        System.out.println(p1.pesoKg);
+        System.out.printf("O peso atual de %s é de %.2fKg\n", p1.name, p1.pesoKg);
     }
 }
